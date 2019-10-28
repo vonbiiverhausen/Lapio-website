@@ -3,21 +3,32 @@ div {
     height: 100px;
     margin: 10px;
     padding: 10px;
+    padding-top: 50px;
+
+    /* Fontti */
+    color: blue;
+    text-align: center;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .eka {
     background-color: red;
     position: absolute;
+    border: 10px solid green;
 }
 
 .toka {
     background-color: yellow;
     position: absolute;
-    left: 250px;
+    left: 275px;
+    border: 10px solid red;
 }
 
 .kolmas {
     background-color: green;
     position: absolute;
-    left: 500px;
+    left: 550px;
+    border: 10px solid yellow;
 }
