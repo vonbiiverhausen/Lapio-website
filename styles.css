@@ -1,0 +1,23 @@
+div {
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.eka {
+    background-color: red;
+    position: absolute;
+}
+
+.toka {
+    background-color: yellow;
+    position: absolute;
+    left: 250px;
+}
+
+.kolmas {
+    background-color: green;
+    position: absolute;
+    left: 500px;
+}
